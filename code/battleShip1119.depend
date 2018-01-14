@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1543154822 source:c:\users\ee-00\desktop\battleshipfinal_1p\main.c
+	<iom128v.h>
+	<stdlib.h>
+	"graphic.h"
+	"t6963c.h"
+	"rsetting.h"
+	"lsetting.h"
+
+1541218152 c:\users\ee-00\desktop\battleshipfinal_1p\graphic.h
+
+1543076818 c:\users\ee-00\desktop\battleshipfinal_1p\t6963c.h
+	<stdint.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
+1543058832 c:\users\ee-00\desktop\battleshipfinal_1p\rsetting.h
+
+1543153690 c:\users\ee-00\desktop\battleshipfinal_1p\lsetting.h
+
